@@ -1,0 +1,17 @@
+
+#+Title: miryoku
+
+The miryoku layout is an ergonomic, minimal, orthogonal layout for ergo or ortho
+keyboards, implemented as part of the QMK firmware.  For full details see
+[[https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/miryoku/miryoku.org]].
+
+Versions of the layout can be seen outside of the QMK source at the following
+locations, however they may not be updated in future:
+
+- [[https://configure.ergodox-ez.com/ergodox-ez/layouts/zLEJm/latest/0][miryoku in the Ergodox
+  EZ Configurator]].
+- [[./Ergodox_EZ_Configurator_miryoku.pdf][PDF output of miryoku in the Ergodox EZ Configurator]].
+- [[https://config.qmk.fm/][QMK Configurator]]. (Import the
+  [[./miryoku.json][miryoku json file]].  Not suitable for compilation as
+  configuration and build options are not supported.)
+- [[./QMK_Configurator_miryoku.pdf][PDF output of miryoku in the QMK Configurator]].
