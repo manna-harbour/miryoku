@@ -1,0 +1,281 @@
+[
+  {
+    "name": "miryoku (keycodes)",
+    "author": "Manna Harbour",
+    "notes": "https://github.com/manna-harbour/miryoku/"
+  },
+  [
+    {
+      "x": 2,
+      "c": "#888888",
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "\n\n*\nF8\n\n\nF\n8",
+    {
+      "x": 6,
+      "t": "#000000\n\n#00ffff",
+      "a": 6
+    },
+    "U\n\nCUT"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 1,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n&\nF7\n\n\nW\n7",
+    {
+      "x": 1
+    },
+    "\n\n(\nF9\n\n\nP\n9",
+    {
+      "x": 4,
+      "t": "#000000\n\n#00ffff",
+      "a": 6
+    },
+    "L\n\nUNDO",
+    {
+      "x": 1
+    },
+    "Y\n\nCOPY"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n}\nPSCR\n\n\nB\n]",
+    {
+      "x": 2,
+      "t": "#000000\n\n#00ffff",
+      "a": 6
+    },
+    "J\n\nAGIN"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#ffffff\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n{\nF12\nRST\n\nQ\n[",
+    {
+      "x": 10,
+      "t": "#000000\n\n#00ffff\n\n#ffffff",
+      "a": 6
+    },
+    "'\n\nPSTE\n\nRST"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#000000\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n%\nF5\nLCTL\n\nS\n5",
+    {
+      "x": 6,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#000000\n\n\n#00ffff"
+    },
+    "\n\nMS_D\nVOLD\nLCTL\n\nE\nDOWN"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#000000\n\n\n#0000ff"
+    },
+    "\n\n&\nF4\nLALT\n\nR\n4",
+    {
+      "x": 1,
+      "n": true
+    },
+    "\n\n^\nF6\nLSFT\n\nT\n6",
+    {
+      "x": 4,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#000000\n\n\n#00ffff",
+      "n": true
+    },
+    "\n\nMS_L\nMPRV\nLSFT\n\nN\nLEFT",
+    {
+      "x": 1
+    },
+    "\n\nMS_U\nVOLU\nLALT\n\nI\nUP"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#000000\n\n\n#0000ff"
+    },
+    "\n\n+\nSLCK\n\n\nG\n=",
+    {
+      "x": 2,
+      "t": "#000000\n\n#00ffff\n\n#000000",
+      "a": 6
+    },
+    "M\n\nCAPS"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#000000\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n:\nF11\nLGUI\n\nA\n;",
+    {
+      "x": 10,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#000000\n\n\n#00ffff"
+    },
+    "\n\nMS_R\nMNXT\nLGUI\n\nO\nRGHT"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
+    },
+    "\n\n@\nF2\n\n\nC\n2",
+    {
+      "x": 6,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+    },
+    "\n\nWH_D\n\n\n\n,\nPGDN"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
+    },
+    "\n\n!\nF1\nALGR\n\nX\n1",
+    {
+      "x": 1
+    },
+    "\n\n#\nF3\n\n\nD\n3",
+    {
+      "x": 4,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+    },
+    "\n\nWH_L\n\n\n\nH\nHOME",
+    {
+      "x": 1
+    },
+    "\n\nWH_U\n\nALGR\n\n.\nPGUP"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
+    },
+    "\n\n|\nPAUS\n\n\nV\n\\",
+    {
+      "x": 2,
+      "t": "#000000\n\n#00ffff",
+      "a": 6
+    },
+    "K\n\nINS"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
+      "a": 4
+    },
+    "\n\n~\nF10\n\n\nZ\n`",
+    {
+      "x": 10,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+    },
+    "\n\nWH_R\n\n\n\n/\nEND"
+  ],
+  [
+    {
+      "y": -0.33999999999999986,
+      "x": 2.5,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#ff00ff\n\n\n#0000ff"
+    },
+    "\n\n>\nAPP\nMEDR\n\nESC\n.",
+    {
+      "x": 5,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#ff0000\n\n\n#00ffff"
+    },
+    "\n\nBTN2\nMUTE\nFUNL\n\nDEL\nDEL"
+  ],
+  [
+    {
+      "y": -0.16000000000000014,
+      "t": "#000000\n#000000",
+      "fa": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 4.75,
+      "d": true
+    },
+    "miryoku (keycodes)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>"
+  ],
+  [
+    {
+      "r": 18,
+      "rx": 3,
+      "ry": 7.25,
+      "y": -4.09,
+      "x": -0.5,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#00ffff\n\n\n#0000ff",
+      "n": true
+    },
+    "\n\n)\nSPC\nNAVR\n\nSPC\n0"
+  ],
+  [
+    {
+      "r": 36,
+      "y": -1,
+      "x": -0.5,
+      "t": "#000000\n\n#00ff00\n#ff0000\n#ffff00\n\n\n#0000ff"
+    },
+    "\n\n_\nTAB\nMOUR\n\nTAB\n-"
+  ],
+  [
+    {
+      "r": -36,
+      "rx": 9,
+      "y": -4.09,
+      "x": -0.5,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#00ff00\n\n\n#00ffff"
+    },
+    "\n\nBTN3\nMSTP\nNSSL\n\nENT\nENT"
+  ],
+  [
+    {
+      "r": -18,
+      "y": -1,
+      "x": -0.5,
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#0000ff\n\n\n#00ffff",
+      "n": true
+    },
+    "\n\nBTN1\nMPLY\nNSL\n\nBSPC\nBSPC"
+  ]
+]
