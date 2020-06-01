@@ -23,17 +23,15 @@
     "\n\n*\nF8\n\n\nF\n8",
     {
       "x": 6,
-      "t": "#000000\n\n#00ffff",
-      "a": 6
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
-    "U\n\nCut"
+    "\n\n\nHue\n\n\nU\nCut"
   ],
   [
     {
       "y": -0.87,
       "x": 1,
-      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
-      "a": 4
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
     },
     "\n\n&\nF7\n\n\nW\n7",
     {
@@ -42,50 +40,44 @@
     "\n\n(\nF9\n\n\nP\n9",
     {
       "x": 4,
-      "t": "#000000\n\n#00ffff",
-      "a": 6
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
-    "L\n\nUndo",
+    "\n\n\nMode\n\n\nL\nUndo",
     {
       "x": 1
     },
-    "Y\n\nCopy"
+    "\n\n\nSat\n\n\nY\nCopy"
   ],
   [
     {
       "y": -0.8799999999999999,
       "x": 4,
-      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
-      "a": 4
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
     },
     "\n\n}\nPrtScn <i>SysRq</i>\n\n\nB\n]",
     {
       "x": 2,
-      "t": "#000000\n\n#00ffff",
-      "a": 6
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
-    "J\n\nAgain"
+    "\n\n\nToggle\n\n\nJ\nAgain"
   ],
   [
     {
       "y": -0.75,
-      "t": "#000000\n\n#00ff00\n#ff0000\n#ffffff\n\n\n#0000ff",
-      "a": 4
+      "t": "#000000\n\n#00ff00\n#ff0000\n#ffffff\n\n\n#0000ff"
     },
     "\n\n{\nF12\nReset\n\nQ\n[",
     {
       "x": 10,
-      "t": "#000000\n\n#00ffff\n\n#ffffff",
-      "a": 6
+      "t": "#000000\n\n#ffff00\n#ff00ff\n#ffffff\n\n\n#00ffff"
     },
-    "'\n\nPaste\n\nReset"
+    "\n\n\nVal\nReset\n\n'\nPaste"
   ],
   [
     {
       "y": -0.5,
       "x": 2,
-      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff",
-      "a": 4
+      "t": "#000000\n\n#00ff00\n#ff0000\n\n\n\n#0000ff"
     },
     "\n\n%\nF5\nCtrl\n\nS\n5",
     {
@@ -153,7 +145,7 @@
     "\n\n@\nF2\n\n\nC\n2",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\nwheel↓\n\n\n\n,\nPage Up"
   ],
@@ -170,7 +162,7 @@
     "\n\n#\nF3\n\n\nD\n3",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\nwheel←\n\n\n\nH\nHome",
     {
@@ -201,7 +193,7 @@
     "\n\n~\nF10\n\n\nZ\n`",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\nwheel→\n\n\n\n/\nEnd"
   ],
@@ -222,11 +214,30 @@
     {
       "y": -0.16000000000000014,
       "t": "#000000",
-      "f2": 2,
+      "fa": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
       "w": 4.75,
       "d": true
     },
-    "miryoku (legends)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>"
+    "miryoku (legends)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": 5.25,
+      "c": "#cccccc",
+      "a": 7,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -235,14 +246,16 @@
       "ry": 7.25,
       "y": -4.09,
       "x": -0.5,
+      "c": "#888888",
       "t": "#000000\n\n#00ff00\n#ff0000\n#00ffff\n\n\n#0000ff",
+      "a": 4,
       "fa": [
         0,
         2,
         2,
         2,
         0,
-        2,
+        0,
         0,
         2
       ],
@@ -267,7 +280,7 @@
       "x": -0.5,
       "t": "#000000\n\n#ffff00\n#ff00ff\n#00ff00\n\n\n#00ffff"
     },
-    "\n\nbutton3\n◼\nSym\n\n↵\n↵"
+    "\n\nbutton1\n◼\nSym\n\n↵\n↵"
   ],
   [
     {
@@ -277,6 +290,6 @@
       "t": "#000000\n\n#ffff00\n#ff00ff\n#0000ff\n\n\n#00ffff",
       "n": true
     },
-    "\n\nbutton1\n⏯\nNum\n\n⌫\n⌫"
+    "\n\nbutton3\n⏯\nNum\n\n⌫\n⌫"
   ]
 ]
