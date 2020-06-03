@@ -1,14 +1,15 @@
 
-#+Title: miryoku
+#+Title: miryoku [[./miryoku-roa-32.png]]
 
 [[./kle-miryoku-legends.png]]
 
-The miryoku layout is an ergonomic, minimal, orthogonal layout for ergo or ortho
-keyboards, implemented as part of the QMK firmware.  For full details see
-[[https://github.com/manna-harbour/qmk_firmware/blob/miryoku/users/manna-harbour_miryoku/miryoku.org]].
+miryoku is an ergonomic, minimal, orthogonal layout for ergo or ortho keyboards,
+implemented as part of the QMK firmware.
 
-Versions of the layout can be seen outside of the QMK source at the following
-locations, however they may not be complete or up to date:
+*For full details see
+[[https://github.com/manna-harbour/qmk_firmware/blob/miryoku/users/manna-harbour_miryoku/miryoku.org]].*
+
+This page provides additional visualisations outside QMK.
 
 - miryoku (legends) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-legends.png][PNG]]) ([[./kle-miryoku-legends.json][json]])
 - miryoku (keycodes) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-keycodes.png][PNG]]) ([[./kle-miryoku-keycodes.json][json]])
