@@ -1,9 +1,9 @@
 
-#+Title: miryoku [[./miryoku-roa-32.png]]
+#+Title: Miryoku Extras [[./miryoku-roa-32.png]]
 
 [[./kle-miryoku-legends.png]]
 
-miryoku is an ergonomic, minimal, orthogonal layout for ergo or ortho keyboards,
+Miryoku is an ergonomic, minimal, orthogonal layout for ergo or ortho keyboards,
 implemented as part of the QMK firmware.
 
 *For full details see
