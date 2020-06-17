@@ -9,7 +9,7 @@ implemented as part of the QMK firmware.
 *For full details see
 [[https://github.com/manna-harbour/qmk_firmware/blob/miryoku/users/manna-harbour_miryoku/miryoku.org]].*
 
-This page provides additional visualisations outside QMK.
+This repository provides additional content outside QMK.
 
 - miryoku (legends) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-legends.png][PNG]]) ([[./kle-miryoku-legends.json][json]])
 - miryoku (keycodes) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-keycodes.png][PNG]]) ([[./kle-miryoku-keycodes.json][json]])
