@@ -23,7 +23,7 @@
     "\n\n*\nF8\n\n\nF\n8",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nHUI\n\n\nU\nCUT"
   ],
@@ -40,7 +40,7 @@
     "\n\n(\nF9\n\n\nP\n9",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nMOD\n\n\nL\nUNDO",
     {
@@ -57,7 +57,7 @@
     "\n\n}\nPSCR\n\n\nB\n]",
     {
       "x": 2,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nTOG\n\n\nJ\nAGIN"
   ],
@@ -69,7 +69,7 @@
     "\n\n{\nF12\nRST\n\nQ\n[",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n#ffffff\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n#ffffff\n\n\n#00ffff"
     },
     "\n\n\nVAI\nRST\n\n'\nPSTE"
   ],
@@ -145,7 +145,7 @@
     "\n\n@\nF2\n\n\nC\n2",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nWH_D\n\n\n\n,\nPGDN"
   ],
@@ -162,7 +162,7 @@
     "\n\n#\nF3\n\n\nD\n3",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nWH_L\n\n\n\nH\nHOME",
     {
@@ -193,7 +193,7 @@
     "\n\n~\nF10\n\n\nZ\n`",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nWH_R\n\n\n\n/\nEND"
   ],
@@ -203,7 +203,7 @@
       "x": 2.5,
       "t": "#000000\n\n#00ff00\n#ff0000\n#ff00ff\n\n\n#0000ff"
     },
-    "\n\n>\nAPP\nMEDR\n\nESC\n.",
+    "\n\n(\nAPP\nMEDR\n\nESC\n.",
     {
       "x": 5,
       "t": "#000000\n\n#ffff00\n#ff00ff\n#ff0000\n\n\n#00ffff"
@@ -214,7 +214,15 @@
     {
       "y": -0.16000000000000014,
       "t": "#000000",
-      "f2": 2,
+      "fa": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
       "w": 4.75,
       "d": true
     },
@@ -247,7 +255,7 @@
         2,
         2,
         0,
-        2,
+        0,
         0,
         2
       ],

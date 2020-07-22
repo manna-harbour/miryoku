@@ -23,7 +23,7 @@
     "\n\n*\nF8\n\n\nF\n8",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nHue\n\n\nU\nCut"
   ],
@@ -40,7 +40,7 @@
     "\n\n(\nF9\n\n\nP\n9",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nMode\n\n\nL\nUndo",
     {
@@ -57,7 +57,7 @@
     "\n\n}\nPrtScn <i>SysRq</i>\n\n\nB\n]",
     {
       "x": 2,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n\n\n\n#00ffff"
     },
     "\n\n\nToggle\n\n\nJ\nAgain"
   ],
@@ -69,7 +69,7 @@
     "\n\n{\nF12\nReset\n\nQ\n[",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n#ffffff\n\n\n#00ffff"
+      "t": "#000000\n\n\n#ff00ff\n#ffffff\n\n\n#00ffff"
     },
     "\n\n\nVal\nReset\n\n'\nPaste"
   ],
@@ -145,7 +145,7 @@
     "\n\n@\nF2\n\n\nC\n2",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nwheel↓\n\n\n\n,\nPage Up"
   ],
@@ -162,7 +162,7 @@
     "\n\n#\nF3\n\n\nD\n3",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nwheel←\n\n\n\nH\nHome",
     {
@@ -193,7 +193,7 @@
     "\n\n~\nF10\n\n\nZ\n`",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#ff00ff\n\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n\n\n\n\n#00ffff"
     },
     "\n\nwheel→\n\n\n\n/\nEnd"
   ],
@@ -203,7 +203,7 @@
       "x": 2.5,
       "t": "#000000\n\n#00ff00\n#ff0000\n#ff00ff\n\n\n#0000ff"
     },
-    "\n\n>\n≣\nMedia\n\nEsc\n.",
+    "\n\n(\n≣\nMedia\n\nEsc\n.",
     {
       "x": 5,
       "t": "#000000\n\n#ffff00\n#ff00ff\n#ff0000\n\n\n#00ffff"

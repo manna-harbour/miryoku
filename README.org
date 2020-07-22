@@ -11,11 +11,11 @@ implemented as part of the QMK firmware.
 
 This repository provides additional content outside QMK.
 
-- miryoku (legends) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-legends.png][PNG]]) ([[./kle-miryoku-legends.json][json]])
 - miryoku (keycodes) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-keycodes.png][PNG]]) ([[./kle-miryoku-keycodes.json][json]])
+- miryoku (legends) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-legends.png][PNG]]) ([[./kle-miryoku-legends.json][json]])
+- miryoku (ergodox subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ergodox.png][PNG]]) ([[./kle-miryoku-mapping-ergodox.json][json]])
 - miryoku (ortho_4x12 subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12.json][json]])
 - miryoku (ortho_4x12 split subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12-split.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12-split.json][json]])
-- miryoku (ergodox subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ergodox.png][PNG]]) ([[./kle-miryoku-mapping-ergodox.json][json]])
 - [[https://configure.ergodox-ez.com/ergodox-ez/layouts/Ee9mD/latest/0][miryoku (Ergodox EZ) in Oryx]] ([[./oryx-miryoku-ergodoxez.pdf][PDF]])
 - [[https://configure.ergodox-ez.com/planck-ez/layouts/9wKxx/latest/0][miryoku (Planck EZ) in Oryx]] ([[./oryx-miryoku-planckez.pdf][PDF]])
 - miryoku (crkbd) in [[https://config.qmk.fm/][QMK Configurator]] ([[./qmk-miryoku-crkbd.pdf][PDF]]) ([[./qmk-miryoku-crkbd.json][json]])
