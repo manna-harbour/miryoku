@@ -15,6 +15,7 @@ This repository provides additional content outside QMK.
 
 - [[https://configure.ergodox-ez.com/ergodox-ez/layouts/Ee9mD/latest/0][miryoku (Ergodox EZ) in Oryx]] ([[./oryx-miryoku-ergodoxez.pdf][PDF]])
 - [[https://configure.ergodox-ez.com/planck-ez/layouts/9wKxx/latest/0][miryoku (Planck EZ) in Oryx]] ([[./oryx-miryoku-planckez.pdf][PDF]])
+- [[https://configure.ergodox-ez.com/moonlander/layouts/mlLZP/latest/0][miryoku (Moonlander) in Oryx]] ([[./oryx-miryoku-moonlander.pdf][PDF]])
 
 * Visualisations
 
