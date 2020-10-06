@@ -21,6 +21,7 @@ This repository provides additional content outside QMK.
 
 - miryoku (keycodes) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-keycodes.png][PNG]]) ([[./kle-miryoku-keycodes.json][json]])
 - miryoku (legends) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-legends.png][PNG]]) ([[./kle-miryoku-legends.json][json]])
+- miryoku (60_ansi subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-60_ansi.png][PNG]]) ([[./kle-miryoku-mapping-60_ansi.json][json]])
 - miryoku (ergodox subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ergodox.png][PNG]]) ([[./kle-miryoku-mapping-ergodox.json][json]])
 - miryoku (ortho_4x12 subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12.json][json]])
 - miryoku (ortho_4x12 split subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12-split.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12-split.json][json]])
