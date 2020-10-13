@@ -1,0 +1,172 @@
+[
+  {
+    "name": "miryoku (ortho_5x15 extended thumbs subset mapping)",
+    "author": "Manna Harbour",
+    "notes": "https://github.com/manna-harbour/miryoku/"
+  },
+  [
+    {
+      "g": true,
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "g": false
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "g": false,
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 6,
+      "d": true
+    },
+    "miryoku (ortho_5x15 extended thumbs subset mapping)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": 7,
+      "a": 7,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+  ]
+]

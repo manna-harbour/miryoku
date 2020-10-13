@@ -25,6 +25,8 @@ This repository provides additional content outside QMK.
 - miryoku (ergodox subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ergodox.png][PNG]]) ([[./kle-miryoku-mapping-ergodox.json][json]])
 - miryoku (ortho_4x12 subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12.json][json]])
 - miryoku (ortho_4x12 split subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[./kle-miryoku-mapping-ortho_4x12-split.png][PNG]]) ([[./kle-miryoku-mapping-ortho_4x12-split.json][json]])
+- miryoku (ortho_5x15 subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[kle/kle-miryoku-mapping-ortho_5x15.png][PNG]]) ([[kle/kle-miryoku-mapping-ortho_5x15.json][json]])
+- miryoku (ortho_5x15 extended thumbs subset mapping) in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[kle/kle-miryoku-mapping-ortho_5x15-extended_thumbs.png][PNG]]) ([[kle/kle-miryoku-mapping-ortho_5x15-extended_thumbs.json][json]])
 - miryoku (crkbd) in [[https://config.qmk.fm/][QMK Configurator]] ([[./qmk-miryoku-crkbd.pdf][PDF]]) ([[./qmk-miryoku-crkbd.json][json]]) (*Note: The QMK configurator
   can't be used to build and flash miryoku* as it does not support the required
   configuration options.  This is for visualisation purposes only.  Please build
