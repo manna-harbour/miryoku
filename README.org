@@ -1,7 +1,7 @@
 
 #+Title: Miryoku (Extras) [[data/logos/miryoku-roa-32.png]]
 
-[[data/layers/miryoku-kle.png]]
+[[data/cover/miryoku-kle-cover.png]]
 
 Miryoku is an ergonomic, minimal, orthogonal layout for ergo or ortho keyboards,
 implemented as part of the QMK firmware.
@@ -20,7 +20,7 @@ This repository provides additional content outside QMK.
 
 * Visualisations
 
-- miryoku in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[data/layers/miryoku-kle.png][PNG]]) ([[data/layers/miryoku-kle.json][json]])
+- Miryoku Layer Reference in [[http://www.keyboard-layout-editor.com][Keyboard Layout Editor]] ([[data/layers/miryoku-kle-reference.png][PNG]]) ([[data/layers/miryoku-kle-reference.json][json]])
 - miryoku (crkbd) in [[https://config.qmk.fm/][QMK Configurator]] ([[data/configurator/miryoku-configurator-crkbd.pdf][PDF]]) ([[data/configurator/miryoku-configurator-crkbd.json][json]]) (*Note: The QMK configurator
   can't be used to build and flash miryoku* as it does not support the required
   configuration options.  This is for visualisation purposes only.  Please build
