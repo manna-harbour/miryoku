@@ -1,0 +1,197 @@
+[
+  {
+    "notes": "https://github.com/manna-harbour/miryoku/"
+  },
+  [
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true,
+      "w": 2
+    },
+    ""
+  ],
+  [
+    {
+      "g": false,
+      "w": 1.5
+    },
+    "",
+    "",
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true,
+      "w": 1.5
+    },
+    ""
+  ],
+  [
+    {
+      "g": false,
+      "w": 1.75
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "w": 2.25
+    },
+    ""
+  ],
+  [
+    {
+      "g": true,
+      "w": 2.25
+    },
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "g": false
+    },
+    "",
+    {
+      "n": true
+    },
+    "",
+    "",
+    {
+      "g": true,
+      "w": 2.75
+    },
+    ""
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 6.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    ""
+  ],
+  [
+    {
+      "g": false,
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 5.75,
+      "d": true
+    },
+    "miryoku (60_ansi subset mapping, traditional stagger)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": 7.25,
+      "a": 7,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+  ]
+]
