@@ -1,6 +1,6 @@
 [
   {
-    "name": "Miryoku",
+    "name": "Miryoku Fun Layer",
     "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
@@ -11,7 +11,7 @@
       "h": 0.5,
       "d": true
     },
-    "<b>Function and System Layer</b>"
+    "<b>Fun Layer</b>"
   ],
   [
     {
@@ -188,8 +188,7 @@
   [
     {
       "y": -0.33999999999999986,
-      "x": 2.5,
-      "t": "#000000\n\n\n\n#ff00ff"
+      "x": 2.5
     },
     "≣",
     {
@@ -234,7 +233,6 @@
       "ry": 7.75,
       "y": -4.09,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#00ffff",
       "n": true
     },
     "Spc"
@@ -243,8 +241,7 @@
     {
       "r": 36,
       "y": -1,
-      "x": -0.5,
-      "t": "#000000\n\n\n\n#ffff00"
+      "x": -0.5
     },
     "⭾"
   ],

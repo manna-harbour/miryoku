@@ -44,13 +44,11 @@
     "P\n\n⇨\nEnd",
     {
       "x": 4,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
-      "f2": 2
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
     },
     "L\nF7\n&\n7",
     {
-      "x": 1,
-      "f2": 2
+      "x": 1
     },
     "Y\nF9\n(\n9"
   ],
@@ -259,7 +257,7 @@
         3
       ]
     },
-    "⌦\n<i class='kb kb-Multimedia-Mute-2'></i>\n2\n⌦\nFn",
+    "⌦\n<i class='kb kb-Multimedia-Mute-2'></i>\n2\n⌦\nFun",
     {
       "x": 5,
       "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ff00ff",

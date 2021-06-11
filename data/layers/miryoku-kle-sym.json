@@ -1,6 +1,6 @@
 [
   {
-    "name": "Miryoku",
+    "name": "Miryoku Sym Layer",
     "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
@@ -11,7 +11,7 @@
       "h": 0.5,
       "d": true
     },
-    "<b>Shifted Numbers and Symbols Layer</b>"
+    "<b>Sym Layer</b>"
   ],
   [
     {
