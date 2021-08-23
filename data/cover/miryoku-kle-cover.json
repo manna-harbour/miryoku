@@ -24,30 +24,38 @@
     "F\nF8\n*\n8",
     {
       "x": 6,
-      "t": "#000000\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff",
+      "fa": [
+        0,
+        0,
+        2,
+        2
+      ]
     },
-    "U\n\n\nCopy"
+    "U\n\nCopy\nCopy"
   ],
   [
     {
       "y": -0.87,
       "x": 1,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "f": 3
     },
     "W\nF7\n&\n7",
     {
-      "x": 1
+      "x": 1,
+      "f": 3
     },
     "P\nF9\n(\n9",
     {
       "x": 4,
-      "t": "#000000\n\n\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff"
     },
-    "L\n\n\nPaste",
+    "L\n\nPaste\nPaste",
     {
       "x": 1
     },
-    "Y\n\n\nCut"
+    "Y\n\nCut\nCut"
   ],
   [
     {
@@ -59,10 +67,9 @@
     "B\nPrtScn <i>SysRq</i>\n}\n]",
     {
       "x": 2,
-      "t": "#000000\n\n\n#00ffff",
-      "f": 3
+      "t": "#000000\n\n#ffff00\n#00ffff"
     },
-    "J\n\n\nRedo"
+    "J\n\nRedo\nRedo"
   ],
   [
     {
@@ -73,10 +80,9 @@
     "Q\nF12\n{\n[",
     {
       "x": 10,
-      "t": "#000000\n\n\n#00ffff",
-      "f": 3
+      "t": "#000000\n\n#ffff00\n#00ffff"
     },
-    "'\n\n\nUndo"
+    "'\n\nUndo\nUndo"
   ],
   [
     {
@@ -130,7 +136,7 @@
     "G\nScroll Lock\n+\n=",
     {
       "x": 2,
-      "t": "#000000\n\n\n#00ffff",
+      "t": "#000000\n\n#ffff00\n#00ffff",
       "f": 3
     },
     "M\n\n\nCaps Lock"
