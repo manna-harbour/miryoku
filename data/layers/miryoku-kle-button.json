@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Miryoku Button Layer",
+    "author": "Manna Harbour",
+    "notes": "https://github.com/manna-harbour/miryoku/"
+  },
+  [
+    {
+      "f": 4,
+      "w": 12,
+      "h": 0.5,
+      "d": true
+    },
+    "<b>Button Layer</b>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "a": 7,
+      "f": 3
+    },
+    "Copy",
+    {
+      "x": 6
+    },
+    "Copy"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 1
+    },
+    "Cut",
+    {
+      "x": 1
+    },
+    "Paste",
+    {
+      "x": 4
+    },
+    "Paste",
+    {
+      "x": 1
+    },
+    "Cut"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "Redo",
+    {
+      "x": 2
+    },
+    "Redo"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "Undo",
+    {
+      "x": 10
+    },
+    "Undo"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2
+    },
+    "Ctrl",
+    {
+      "x": 6
+    },
+    "Ctrl"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1
+    },
+    "Alt",
+    {
+      "x": 1,
+      "n": true
+    },
+    "Shift",
+    {
+      "x": 4,
+      "n": true
+    },
+    "Shift",
+    {
+      "x": 1
+    },
+    "Alt"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "",
+    {
+      "x": 2
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "Super",
+    {
+      "x": 10
+    },
+    "Super"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2
+    },
+    "Copy",
+    {
+      "x": 6
+    },
+    "Copy"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1
+    },
+    "Cut",
+    {
+      "x": 1
+    },
+    "Paste",
+    {
+      "x": 4
+    },
+    "Paste",
+    {
+      "x": 1
+    },
+    "Cut"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "Redo",
+    {
+      "x": 2
+    },
+    "Redo"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "Undo",
+    {
+      "x": 10
+    },
+    "Undo"
+  ],
+  [
+    {
+      "y": -0.33999999999999986,
+      "x": 2.5
+    },
+    "2",
+    {
+      "x": 5
+    },
+    "2"
+  ],
+  [
+    {
+      "y": -0.16000000000000014,
+      "c": "#888888",
+      "a": 4,
+      "f": 2,
+      "fa": [
+        3
+      ],
+      "w": 12,
+      "d": true
+    },
+    "Miryoku\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": -2,
+      "c": "#cccccc",
+      "a": 7,
+      "f": 3,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+  ],
+  [
+    {
+      "r": 18,
+      "rx": 3,
+      "ry": 7.75,
+      "y": -4.09,
+      "x": -0.5,
+      "n": true
+    },
+    "3"
+  ],
+  [
+    {
+      "r": 36,
+      "y": -1,
+      "x": -0.5
+    },
+    "1"
+  ],
+  [
+    {
+      "r": -36,
+      "rx": 9,
+      "y": -4.09,
+      "x": -0.5
+    },
+    "1"
+  ],
+  [
+    {
+      "r": -18,
+      "y": -1,
+      "x": -0.5,
+      "n": true
+    },
+    "3"
+  ]
+]
