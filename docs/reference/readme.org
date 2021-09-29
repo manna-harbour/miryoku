@@ -1,0 +1,207 @@
+
+* Miryoku Reference Manual [[../../data/logos/miryoku-roa-32.png]]
+
+[[https://github.com/manna-harbour/miryoku/][Miryoku]] is an ergonomic, minimal, orthogonal, and universal keyboard layout.
+
+
+** Layout
+
+*** General Principles
+
+- Use layers instead of reaching.
+- Use both hands instead of contortions.
+- Use the home positions as much as possible.
+- Make full use of the thumbs.
+- Avoid unnecessary complication.
+
+
+*** Details
+
+- 5 columns, 3 rows, 3 thumb keys, 2 hands.
+- Can be used on almost any split or non-split ergo or ortho keyboard.
+- Includes all keys found on a US layout TKL keyboard, plus media keys and mouse emulation.
+- Home row is the middle row, home thumb key is the middle thumb key.
+- Maximum 1-u movement from home position for fingers and thumbs, and only along one axis (except for the inner index finger column which is deprioritised compared with the home columns).
+- Dual-function modifiers on home row, mirrored on both hands.
+- Dual-function layer change on thumbs.
+- Layers are designed orthogonally with a single purpose per hand and are accessed by holding a thumb key on the opposite hand.
+- All layers on the same hand are based on the same basic key arrangement.
+- Holding layer change and modifiers on one hand combined with a single key press on the other hand can produce any combination of modifiers and single keys without any finger contortions.
+- Single function mods are also defined on layers on the same hand as the layer change thumb key so layer change and mods can be held in any order or simultaneously without race conditions.
+- As mods are only enabled on the opposite hand, auto-repeat is available on the home row on layers for use with cursor and mouse keys.
+- Tap-hold auto-repeat is disabled to permit faster tap-hold switching on thumbs, but thumb tap keys are mirrored onto some layers for use with auto-repeat.  On other layers thumb keys are redefined with important functions for that layer.
+- Auto Shift for numbers and symbols.
+
+
+*** Layers
+
+[[../../data/layers/miryoku-kle-reference.png]]
+
+
+**** Base
+
+[[../../data/layers/miryoku-kle-base.png]]
+
+The base layer alphas are Colemak Mod-DH.  ~Dot~, ~comma~, and ~slash~, are included with the alphas, plus ~apostrophe~ replacing ~semicolon~.  The primary, secondary, and tertiary thumb keys are ~backspace~, ~enter~, and ~delete~ on the right, and ~space~, ~tab~, and ~escape~ on the left, respectively.
+
+Alternative alpha arrangements are also available.
+
+
+**** Nav
+
+[[../../data/layers/miryoku-kle-nav.png]]
+
+Primary right-hand layer (left home thumb) is navigation and editing.  Cursor keys are on the home position, line and page movement below, clipboard above, ~caps lock~ and ~insert~ on the inner column.  Thumb keys are duplicated from the base layer to avoid having to layer change mid edit and to enable auto-repeat.
+
+Alternative clipboard key mappings and navigation key arrangements are available.
+
+
+**** Mouse
+
+[[../../data/layers/miryoku-kle-mouse.png]]
+
+Secondary right-hand layer is mouse emulation.  Mouse movement mirrors cursor navigation on home and wheel mirrors line / page movement below.  Buttons are on the thumbs (L, M, R).  Mouse movement, click, and drag, with modifiers, can be performed from the home position.  Clipboard keys are duplicated from the Nav layer.
+
+
+**** Button
+
+[[../../data/layers/miryoku-kle-button.png]]
+
+Provides mouse buttons, mods, and clipboard keys for use with integrated or external pointing devices, used with either hand.  The layer is available for automatic activation depending on hardware and configuration.  It can also be activated manually by holding a bottom row pinkie key (however ~super~ and ~undo~ will be unavailable).
+
+
+**** Media
+
+[[../../data/layers/miryoku-kle-media.png]]
+
+Tertiary right-hand layer is media control, with ~volume up~ / ~volume down~ and ~next~ / ~prev~ mirroring the navigation keys.  ~Pause~, ~stop~ and ~mute~ are on thumbs.  Unused keys are available for other related functions.
+
+
+**** Num
+
+[[../../data/layers/miryoku-kle-num.png]]
+
+Primary left-hand layer (right home thumb) is numerals and symbols.  Numerals are in the standard numpad locations with symbols in the remaining positions. ~Dot~ is duplicated from the base layer.
+
+
+**** Sym
+
+[[../../data/layers/miryoku-kle-sym.png]]
+
+Secondary left-hand layer has shifted symbols in the same locations to reduce chording when using mods with shifted symbols.  ~Open parenthesis~ is duplicated next to ~close parenthesis~.
+
+
+**** Fun
+
+[[../../data/layers/miryoku-kle-fun.png]]
+
+Tertiary left-hand layer has function keys mirroring the numerals on the primary layer with extras on the pinkie column, plus system keys on the inner column. ~App~ is on the tertiary thumb key and other thumb keys are duplicated from the base layer to enable auto-repeat.
+
+
+**** Alternative Layouts
+
+The defaults are recommended, but alternative layouts are provided to accommodate existing muscle memory and platform differences.
+
+
+***** Alphas
+
+
+Standard alpha arrangements, including ~dot~, ~comma~, ~slash~, and ~apostrophe~.
+
+
+****** AZERTY
+
+~MIRYOKU_ALPHAS=AZERTY~
+
+
+****** Colemak
+
+~MIRYOKU_ALPHAS=COLEMAK~
+
+
+****** Colemak Mod-DHk
+
+~MIRYOKU_ALPHAS=COLEMAKDHK~
+
+
+****** Dvorak
+
+~MIRYOKU_ALPHAS=DVORAK~
+
+
+****** Halmak
+
+~MIRYOKU_ALPHAS=HALMAK~
+
+
+****** Workman
+
+~MIRYOKU_ALPHAS=WORKMAN~
+
+
+****** QWERTY
+
+~MIRYOKU_ALPHAS=QWERTY~
+
+
+****** QWERTZ
+
+~MIRYOKU_ALPHAS=QWERTZ~
+
+
+***** Nav
+
+
+****** vi-Style
+
+~MIRYOKU_NAV=VI~
+
+Columns are moved left one position to match ~hjkl~ positions, and the inner index column is moved to the pinkie column.  All same hand sub layers are modified in the same way.
+
+Not available with ~MIRYOKU_LAYERS=FLIP~.
+
+
+****** Inverted-T
+
+[[../../data/layers/miryoku-kle-reference-flip-invertedt.png]]
+
+~MIRYOKU_NAV=INVERTEDT~
+
+Cursor keys are in ~esdf~ positions, with ~home~ / ~end~ to the left / right of ~up~, and ~page up~ / ~page down~ on the pinkie column.  Clipboard keys are on the bottom row.  ~Insert~ moves to the top row.  ~Caps lock~ is unchanged.  All same hand sub layers are modified in the same way.
+
+Only available with ~MIRYOKU_LAYERS=FLIP~.
+
+
+***** Clipboard
+
+****** Default
+
+The main clipboard keys (~cut~, ~copy~, and ~paste~) use the CUA bindings and should work in general unix and windows applications, emacs, and terminal emulators.  The additional keys (~undo~, ~redo~) use Fun Cluster keycodes and usually require rebinding in the application.
+
+
+****** Fun Cluster
+
+~MIRYOKU_CLIPBOARD=FUN~
+
+
+****** Mac
+
+~MIRYOKU_CLIPBOARD=MAC~
+
+
+****** Windows
+
+~MIRYOKU_CLIPBOARD=WIN~
+
+
+***** Layers
+
+
+****** Flip
+
+~MIRYOKU_LAYERS=FLIP~
+
+Flip base layer thumb keys and sub layers between right and left hands.
+
+
+[[https://github.com/manna-harbour][../../data/logos/manna-harbour-boa-32.png]]

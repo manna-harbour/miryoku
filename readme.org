@@ -1,0 +1,18 @@
+
+* Miryoku [[data/logos/miryoku-roa-32.png]]
+
+[[data/cover/miryoku-kle-cover.png]]
+
+[[https://github.com/manna-harbour/miryoku/][Miryoku]] is an ergonomic, minimal, orthogonal, and universal keyboard layout.
+
+** Documentation
+
+# - [[docs/user/][Miryoku User Guide]]
+- [[docs/reference/][Miryoku Reference Manual]]
+
+** Implementations
+
+- [[https://github.com/manna-harbour/qmk_firmware/blob/miryoku/users/manna-harbour_miryoku/][Miryoku QMK]]
+- [[data/oryx][Miryoku Oryx]]
+
+[[https://github.com/manna-harbour][data/logos/manna-harbour-boa-32.png]]

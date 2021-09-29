@@ -1,0 +1,19 @@
+
+* Miryoku Oryx [[../../data/logos/miryoku-roa-32.png]]
+
+[[miryoku-oryx-cover.png]]
+
+[[https://github.com/manna-harbour/miryoku/][Miryoku]] is an ergonomic, minimal, orthogonal, and universal keyboard layout.  This is the Miryoku implementation for [[https://zsa.io/oryx/][Oryx]].
+
+** Oryx Layout Links
+
+- [[https://configure.zsa.io/ergodox-ez/layouts/Ee9mD/latest/0][Miryoku Oryx (Ergodox EZ)]]
+- [[https://configure.zsa.io/planck-ez/layouts/9wKxx/latest/0][Miryoku Oryx (Planck EZ)]]
+- [[https://configure.zsa.io/moonlander/layouts/mlLZP/latest/0][Miryoku Oryx (Moonlander)]]
+
+** Implementation Notes
+
+- Alternative layouts are not provided.  They can be implemented by manual copying from other implementations.  Alternatively, they are provided in Miryoku QMK which supports all keyboards supported by Miryoku Oryx.
+
+
+[[https://github.com/manna-harbour][../../data/logos/manna-harbour-boa-32.png]]
