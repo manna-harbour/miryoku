@@ -6,6 +6,7 @@
 
 ** Layout
 
+
 *** General Principles
 
 - Use layers instead of reaching.
@@ -31,6 +32,7 @@
 - As mods are only enabled on the opposite hand, auto-repeat is available on the home row on layers for use with cursor and mouse keys.
 - Tap-hold auto-repeat is disabled to permit faster tap-hold switching on thumbs, but thumb tap keys are mirrored onto some layers for use with auto-repeat.  On other layers thumb keys are redefined with important functions for that layer.
 - Auto Shift for numbers and symbols.
+- Reset is available on sub layers on the same hand as the layer change thumb key.  Hold any thumb key and tap the top row pinkie column key on the same hand.
 
 
 *** Layers
@@ -173,6 +175,7 @@ Only available with ~MIRYOKU_LAYERS=FLIP~.
 
 
 ***** Clipboard
+
 
 ****** Default
 
