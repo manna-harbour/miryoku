@@ -13,6 +13,7 @@
 ** Implementations
 
 - [[https://github.com/manna-harbour/miryoku_qmk/blob/miryoku/users/manna-harbour_miryoku/][Miryoku QMK]]
+- [[https://github.com/manna-harbour/miryoku_babel][Miryoku Babel]]
 - [[data/oryx][Miryoku Oryx]]
 
 ** Discussions and Support
