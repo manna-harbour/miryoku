@@ -100,61 +100,61 @@ Secondary left-hand layer has shifted symbols in the same locations to reduce ch
 Tertiary left-hand layer has function keys mirroring the numerals on the primary layer with extras on the pinkie column, plus system keys on the inner column. ~App~ is on the tertiary thumb key and other thumb keys are duplicated from the base layer to enable auto-repeat.
 
 
-**** Alternative Layouts
+*** Alternative Layouts
 
 The defaults are recommended, but alternative layouts are provided to accommodate existing muscle memory and platform differences.
 
 
-***** Alphas
+**** Alphas
 
 
-Standard alpha arrangements, including ~dot~, ~comma~, ~slash~, and ~apostrophe~.
+Standard alpha arrangements, plus ~dot~, ~comma~, ~slash~, and ~apostrophe~.
 
 
-****** AZERTY
+***** AZERTY
 
 ~MIRYOKU_ALPHAS=AZERTY~
 
 
-****** Colemak
+***** Colemak
 
 ~MIRYOKU_ALPHAS=COLEMAK~
 
 
-****** Colemak Mod-DHk
+***** Colemak Mod-DHk
 
 ~MIRYOKU_ALPHAS=COLEMAKDHK~
 
 
-****** Dvorak
+***** Dvorak
 
 ~MIRYOKU_ALPHAS=DVORAK~
 
 
-****** Halmak
+***** Halmak
 
 ~MIRYOKU_ALPHAS=HALMAK~
 
 
-****** Workman
+***** Workman
 
 ~MIRYOKU_ALPHAS=WORKMAN~
 
 
-****** QWERTY
+***** QWERTY
 
 ~MIRYOKU_ALPHAS=QWERTY~
 
 
-****** QWERTZ
+***** QWERTZ
 
 ~MIRYOKU_ALPHAS=QWERTZ~
 
 
-***** Nav
+**** Nav
 
 
-****** vi-Style
+***** vi-Style
 
 ~MIRYOKU_NAV=VI~
 
@@ -163,48 +163,55 @@ Columns are moved left one position to match ~hjkl~ positions, and the inner ind
 Not available with ~MIRYOKU_LAYERS=FLIP~.
 
 
-****** Inverted-T
-
-[[../../data/layers/miryoku-kle-reference-flip-invertedt.png]]
+***** Inverted-T
 
 ~MIRYOKU_NAV=INVERTEDT~
 
-Cursor keys are in ~esdf~ positions, with ~home~ / ~end~ to the left / right of ~up~, and ~page up~ / ~page down~ on the pinkie column.  Clipboard keys are on the bottom row.  ~Insert~ moves to the top row.  ~Caps lock~ is unchanged.  All same hand sub layers are modified in the same way.
-
-Only available with ~MIRYOKU_LAYERS=FLIP~.
+Cursor keys are in an inverted-T arrangement with ~down~ on the middle finger home position, ~home~ / ~end~ to the left / right of ~up~, and ~page up~ / ~page down~ on the pinkie column.  Clipboard keys are on the bottom row.  ~Insert~ moves to the top row.  ~Caps lock~ is unchanged.  All same hand sub layers are modified in the same way.
 
 
-***** Clipboard
+**** Clipboard
 
 
-****** Default
+***** Default
 
 The main clipboard keys (~cut~, ~copy~, and ~paste~) use the CUA bindings and should work in general unix and windows applications, emacs, and terminal emulators.  The additional keys (~undo~, ~redo~) use Fun Cluster keycodes and usually require rebinding in the application.
 
 
-****** Fun Cluster
+***** Fun Cluster
 
 ~MIRYOKU_CLIPBOARD=FUN~
 
 
-****** Mac
+***** Mac
 
 ~MIRYOKU_CLIPBOARD=MAC~
 
 
-****** Windows
+***** Windows
 
 ~MIRYOKU_CLIPBOARD=WIN~
 
 
-***** Layers
+**** Layers
 
 
-****** Flip
+***** Flip
 
 ~MIRYOKU_LAYERS=FLIP~
 
 Flip base layer thumb keys and sub layers between right and left hands.
 
+
+****** Flip Layers Inverted-T Nav
+
+[[../../data/layers/miryoku-kle-reference-flip-invertedt.png]]
+
+~MIRYOKU_NAV=INVERTEDT~
+
+As per [[#inverted-t][Inverted-T Nav]] but with Flip Layers transformation.
+
+
+** 
 
 [[https://github.com/manna-harbour][../../data/logos/manna-harbour-boa-32.png]]
