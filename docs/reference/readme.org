@@ -76,7 +76,15 @@ Provides mouse buttons, mods, and clipboard keys for use with integrated or exte
 
 [[../../data/layers/miryoku-kle-media.png]]
 
-Tertiary right-hand layer is media control, with ~volume up~ / ~volume down~ and ~next~ / ~prev~ mirroring the navigation keys.  ~Pause~, ~stop~ and ~mute~ are on thumbs.  Unused keys are available for other related functions.
+Tertiary right-hand layer is media control, with ~volume up~ / ~volume down~ and ~next~ / ~prev~ mirroring the navigation keys. ~Pause~, ~stop~ and ~mute~ are on the primary, secondary, and tertiary thumbs, respectively.
+
+Keyboard hardware controls are also present, and depend on hardware and firmware support.
+
+RGB control is on the top row. ~RGB Toggle~, ~RGB Mode~, ~RGB Hue~, ~RGB Saturation~, and ~RGB Value~ are on inner index, index, middle, ring, and pinkie column keys, respectively. Other than ~RGB Toggle~, tapping will increase the corresponding value, and can be combined with ~Shift~ to decrease.
+
+~External Power Toggle~ is on the middle row inner index column key. Combine with ~Shift~ for ~External Power Off~
+
+Bluetooth profile and output selection are on the bottom row. ~Output Toggle~ is on the inner index column key. Combine with ~Shift~ for ~Output USB~. Bluetooth profile selection ~BT 0~, ~BT 1~, ~BT 2~, and ~BT 3~ are on the index, middle, ring, and pinkie column keys, respectively. Combine with ~Shift~ to select and clear the corresponding profile.
 
 
 **** Num

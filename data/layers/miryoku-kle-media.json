@@ -24,7 +24,7 @@
     {
       "x": 6
     },
-    ""
+    "RGB Hue"
   ],
   [
     {
@@ -39,11 +39,11 @@
     {
       "x": 4
     },
-    "",
+    "RGB Mod",
     {
       "x": 1
     },
-    ""
+    "RGB Sat"
   ],
   [
     {
@@ -54,7 +54,7 @@
     {
       "x": 2
     },
-    ""
+    "RGB Tog"
   ],
   [
     {
@@ -64,7 +64,7 @@
     {
       "x": 10
     },
-    ""
+    "RGB Val"
   ],
   [
     {
@@ -107,7 +107,7 @@
     {
       "x": 2
     },
-    ""
+    "EP Tog"
   ],
   [
     {
@@ -128,7 +128,7 @@
     {
       "x": 6
     },
-    ""
+    "BT 1"
   ],
   [
     {
@@ -143,11 +143,11 @@
     {
       "x": 4
     },
-    "",
+    "BT 0",
     {
       "x": 1
     },
-    ""
+    "BT 2"
   ],
   [
     {
@@ -158,7 +158,7 @@
     {
       "x": 2
     },
-    ""
+    "Out Tog"
   ],
   [
     {
@@ -168,7 +168,7 @@
     {
       "x": 10
     },
-    ""
+    "BT 3"
   ],
   [
     {
@@ -207,11 +207,11 @@
       "a": 7,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
