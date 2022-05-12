@@ -232,14 +232,14 @@
   [
     {
       "y": -0.75,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#C0C0C0"
     },
-    "Z\nF10\n~\n`",
+    "Z\nF10\n~\n`\nButton",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#C0C0C0"
     },
-    "/\n\n⇨\nEnd"
+    "/\n\n⇨\nEnd\nButton"
   ],
   [
     {
