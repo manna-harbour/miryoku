@@ -100,6 +100,18 @@ Secondary left-hand layer has shifted symbols in the same locations to reduce ch
 Tertiary left-hand layer has function keys mirroring the numerals on the primary layer with extras on the pinkie column, plus system keys on the inner column. ~App~ is on the tertiary thumb key and other thumb keys are duplicated from the base layer to enable auto-repeat.
 
 
+**** Additional Features
+
+[[../../data/layers/miryoku-kle-features.png]]
+
+During thumb key layer-tap hold, keys on the same hand as the hold, other than mods, are used for additional features that are not needed during normal typing.
+
+The top row pinkie column key activates the bootloader.
+
+The top row index, middle, and ring column keys are used to switch between and return to alternate Base layers. Index is Base, middle is Extra, and ring is Tap. The Extra alpha arrangement defaults to QWERTY. Tap has only the tap functions of Base with no dual-function keys. Returning from Tap requires a reset or adding a custom keybinding. The Tap alpha arrangement defaults to Colemak Mod-DH. Alternative alpha arrangements are also available.
+
+The bottom row index and middle column keys are used for layer lock. Index is for the current layer. Middle is for the opposite layer (normally activated with the corresponding primary, secondary, or tertiary thumb key on the opposite hand) and can be used for single handed lock and layer use.
+
 *** Alternative Layouts
 
 The defaults are recommended, but alternative layouts are provided to accommodate existing muscle memory and platform differences.
@@ -111,44 +123,58 @@ The defaults are recommended, but alternative layouts are provided to accommodat
 Standard alpha arrangements, plus ~dot~, ~comma~, ~slash~, and ~apostrophe~.
 
 
-***** AZERTY
+***** Base
+
+
+****** AZERTY
 
 ~MIRYOKU_ALPHAS=AZERTY~
 
 
-***** Colemak
+****** Colemak
 
 ~MIRYOKU_ALPHAS=COLEMAK~
 
 
-***** Colemak Mod-DHk
+****** Colemak Mod-DHk
 
 ~MIRYOKU_ALPHAS=COLEMAKDHK~
 
 
-***** Dvorak
+****** Dvorak
 
 ~MIRYOKU_ALPHAS=DVORAK~
 
 
-***** Halmak
+****** Halmak
 
 ~MIRYOKU_ALPHAS=HALMAK~
 
 
-***** Workman
+****** Workman
 
 ~MIRYOKU_ALPHAS=WORKMAN~
 
 
-***** QWERTY
+****** QWERTY
 
 ~MIRYOKU_ALPHAS=QWERTY~
 
 
-***** QWERTZ
+****** QWERTZ
 
 ~MIRYOKU_ALPHAS=QWERTZ~
+
+
+***** Extra
+
+The same alpha arrangements are available as for Base. Use ~MIRYOKU_EXTRA~ e.g. ~MIRYOKU_EXTRA=COLEMAKDH~.
+
+
+
+***** Tap
+
+The same alpha arrangements are available as for Base. Use ~MIRYOKU_TAP~ e.g. ~MIRYOKU_TAP=QWERTY~.
 
 
 **** Nav

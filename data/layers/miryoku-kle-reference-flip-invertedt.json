@@ -18,13 +18,13 @@
       "y": -0.5,
       "x": 2,
       "c": "#888888",
-      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff",
+      "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff",
       "f": 3
     },
-    "F\n<i class='kb kb-Multimedia-Volume-Up-2'></i>\n⬆\n▲",
+    "F\n<i class='kb kb-Multimedia-Volume-Up-2'></i>\n⬆\n▲\nExtra",
     {
       "x": 6,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "fa": [
         0,
         0,
@@ -32,37 +32,39 @@
         2
       ]
     },
-    "U\nF8\n*\n8"
+    "U\nF8\n*\n8\nExtra"
   ],
   [
     {
       "y": -0.87,
       "x": 1,
-      "t": "#000000\n\n#ffff00\n#00ffff",
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff",
       "f": 3
     },
-    "W\n\n⇦\nHome",
+    "W\n\n⇦\nHome\nTap",
     {
       "x": 1,
       "f": 3
     },
-    "P\n\n⇨\nEnd",
+    "P\n\n⇨\nEnd\nBase",
     {
       "x": 4,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
-      "f2": 0
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
+      "f": 3
     },
-    "L\nF7\n&\n7",
+    "L\nF7\n&\n7\nBase",
     {
-      "x": 1
+      "x": 1,
+      "f": 3
     },
-    "Y\nF9\n(\n9"
+    "Y\nF9\n(\n9\nTap"
   ],
   [
     {
       "y": -0.88,
       "x": 4,
-      "t": "#000000\n\n\n#00ffff"
+      "t": "#000000\n\n\n#00ffff",
+      "f": 3
     },
     "B\n\n\nInsert",
     {
@@ -81,12 +83,12 @@
   [
     {
       "y": -0.75,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    "Q\n\n⇧\nPage Up",
+    "Q\n\n⇧\nPage Up\nBoot",
     {
       "x": 10,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "fa": [
         3,
         3,
@@ -94,7 +96,7 @@
         3
       ]
     },
-    "'\nF12\n}\n]"
+    "'\nF12\n}\n]\nBoot"
   ],
   [
     {
@@ -175,18 +177,15 @@
     {
       "y": -0.5,
       "x": 2,
-      "t": "#000000\n\n#ffff00\n#00ffff",
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff",
       "fa": [
-        3,
-        3,
-        0,
-        0
+        3
       ]
     },
-    "C\n\nCopy\nCopy",
+    "C\n\nCopy\nCopy\nOpp",
     {
       "x": 6,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "fa": [
         3,
         3,
@@ -194,7 +193,7 @@
         3
       ]
     },
-    ",\nF2\n@\n2"
+    ",\nF2\n@\n2\nOpp"
   ],
   [
     {
@@ -202,20 +201,18 @@
       "x": 1,
       "t": "#000000\n\n#ffff00\n#00ffff",
       "fa": [
-        3,
-        3,
-        0,
-        0
+        3
       ]
     },
     "X\n\nCut\nCut",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    "D\n\nPaste\nPaste",
+    "D\n\nPaste\nPaste\nCur",
     {
       "x": 4,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "fa": [
         3,
         3,
@@ -223,9 +220,10 @@
         3
       ]
     },
-    "H\nF1\n!\n1",
+    "H\nF1\n!\n1\nCur",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
     },
     ".\nF3\n#\n3"
   ],
@@ -261,10 +259,7 @@
       "y": -0.75,
       "t": "#000000\n\n#ffff00\n#00ffff",
       "fa": [
-        3,
-        0,
-        0,
-        0
+        3
       ]
     },
     "Z\n\nUndo\nUndo",
@@ -314,11 +309,11 @@
       "f": 3,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {

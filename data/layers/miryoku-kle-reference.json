@@ -18,13 +18,13 @@
       "y": -0.5,
       "x": 2,
       "c": "#888888",
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "f": 3
     },
-    "F\nF8\n*\n8",
+    "F\nF8\n*\n8\nExtra",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#00ffff",
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff",
       "fa": [
         0,
         0,
@@ -32,30 +32,30 @@
         2
       ]
     },
-    "U\n\nCopy\nCopy"
+    "U\n\nCopy\nCopy\nExtra"
   ],
   [
     {
       "y": -0.87,
       "x": 1,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "f": 3
     },
-    "W\nF7\n&\n7",
+    "W\nF7\n&\n7\nTap",
     {
       "x": 1,
       "f": 3
     },
-    "P\nF9\n(\n9",
+    "P\nF9\n(\n9\nBase",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    "L\n\nPaste\nPaste",
+    "L\n\nPaste\nPaste\nBase",
     {
       "x": 1
     },
-    "Y\n\nCut\nCut"
+    "Y\n\nCut\nCut\nTap"
   ],
   [
     {
@@ -87,15 +87,15 @@
   [
     {
       "y": -0.75,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
       "f": 3
     },
-    "Q\nF12\n{\n[",
+    "Q\nF12\n{\n[\nBoot",
     {
       "x": 10,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    "'\n\nUndo\nUndo"
+    "'\n\nUndo\nUndo\nBoot"
   ],
   [
     {
@@ -176,14 +176,14 @@
     {
       "y": -0.5,
       "x": 2,
-      "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff"
     },
-    "C\nF2\n@\n2",
+    "C\nF2\n@\n2\nOpp",
     {
       "x": 6,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    ",\n\n⇩\nPage Down"
+    ",\n\n⇩\nPage Down\nOpp"
   ],
   [
     {
@@ -193,16 +193,18 @@
     },
     "X\nF1\n!\n1",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff"
     },
-    "D\nF3\n#\n3",
+    "D\nF3\n#\n3\nCur",
     {
       "x": 4,
-      "t": "#000000\n\n#ffff00\n#00ffff"
+      "t": "#000000\n\n#ffff00\n#00ffff\n#ffffff"
     },
-    "H\n\n⇦\nHome",
+    "H\n\n⇦\nHome\nCur",
     {
-      "x": 1
+      "x": 1,
+      "t": "#000000\n\n#ffff00\n#00ffff"
     },
     ".\n\n⇧\nPage Up"
   ],
@@ -271,11 +273,11 @@
       "f": 3,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
