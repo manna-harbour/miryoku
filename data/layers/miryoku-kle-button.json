@@ -175,11 +175,11 @@
       "y": -0.33999999999999986,
       "x": 2.5
     },
-    "2",
+    "Middle",
     {
       "x": 5
     },
-    "2"
+    "Middle"
   ],
   [
     {
@@ -201,11 +201,11 @@
       "f": 3,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -216,7 +216,7 @@
       "x": -0.5,
       "n": true
     },
-    "3"
+    "Left"
   ],
   [
     {
@@ -224,7 +224,7 @@
       "y": -1,
       "x": -0.5
     },
-    "1"
+    "Right"
   ],
   [
     {
@@ -233,7 +233,7 @@
       "y": -4.09,
       "x": -0.5
     },
-    "1"
+    "Right"
   ],
   [
     {
@@ -242,6 +242,6 @@
       "x": -0.5,
       "n": true
     },
-    "3"
+    "Left"
   ]
 ]

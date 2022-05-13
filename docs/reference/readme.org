@@ -62,7 +62,7 @@ Alternative clipboard key mappings and navigation key arrangements are available
 
 [[../../data/layers/miryoku-kle-mouse.png]]
 
-Secondary right-hand layer is mouse emulation.  Mouse movement mirrors cursor navigation on home and wheel mirrors line / page movement below.  Buttons are on the thumbs (L, M, R).  Mouse movement, click, and drag, with modifiers, can be performed from the home position.  Clipboard keys are duplicated from the Nav layer.
+Secondary right-hand layer is mouse emulation.  Mouse movement mirrors cursor navigation on home and wheel mirrors line / page movement below.  Mouse buttons are on the thumbs. Left, right, and middle mouse buttons are on the primary, secondary, and tertiary thumb keys, respectively.  Mouse movement, click, and drag, with modifiers, can be performed from the home position.  Clipboard keys are duplicated from the Nav layer.
 
 
 **** Button
