@@ -80,7 +80,7 @@ Tertiary right-hand layer is media control, with ~volume up~ / ~volume down~ and
 
 Keyboard hardware controls are also present, and depend on hardware and firmware support.
 
-RGB control is on the top row. ~RGB Toggle~, ~RGB Mode~, ~RGB Hue~, ~RGB Saturation~, and ~RGB Value~ are on inner index, index, middle, ring, and pinkie column keys, respectively. Other than ~RGB Toggle~, tapping will increase the corresponding value, and can be combined with ~Shift~ to decrease.
+RGB control is on the top row. ~RGB Toggle~ is on the inner index column key. Combine with ~Shift~ for ~RGB Off~. ~RGB Mode~, ~RGB Hue~, ~RGB Saturation~, and ~RGB Value~ are on index, middle, ring, and pinkie column keys, respectively. Tapping will increase the corresponding value. Combine with ~Shift~ to decrease.
 
 ~External Power Toggle~ is on the middle row inner index column key. Combine with ~Shift~ for ~External Power Off~
 
