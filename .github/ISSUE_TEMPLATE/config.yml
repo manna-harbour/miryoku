@@ -1,0 +1,8 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+blank_issues_enabled: true
+contact_links:
+  - name: Miryoku Discussions and Support
+    url: https://github.com/manna-harbour/miryoku/discussions/8
+    about: Including support requests, bug reports, and feature requests.
