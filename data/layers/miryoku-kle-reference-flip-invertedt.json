@@ -231,7 +231,7 @@
         0
       ]
     },
-    "X\n1\nCut\nCut",
+    "X\n1\nCut\nCut\nAltGr",
     {
       "x": 1,
       "t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"
@@ -252,7 +252,7 @@
       "x": 1,
       "t": "#000000\n#ff0000\n#00ff00\n#0000ff"
     },
-    ".\nF3\n#\n3"
+    ".\nF3\n#\n3\nAltGr"
   ],
   [
     {

@@ -209,7 +209,7 @@
       "t": "\n#FF0000\n#00FF00\n#0000FF",
       "f": 3
     },
-    "X\nF1\n!\n1",
+    "X\nF1\n!\n1\nAltGr",
     {
       "x": 1,
       "t": "\n#FF0000\n#00FF00\n#0000FF\n#FFFFFF",
@@ -231,7 +231,7 @@
       "x": 1,
       "t": "\n#FF00FF\n#FFFF00\n#00FFFF"
     },
-    ".\n2\n⇧\nPage Up"
+    ".\n2\n⇧\nPage Up\nAltGr"
   ],
   [
     {
