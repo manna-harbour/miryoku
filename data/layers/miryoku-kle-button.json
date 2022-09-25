@@ -15,197 +15,134 @@
   ],
   [
     {
-      "y": -0.5,
-      "x": 2,
-      "a": 7,
-      "f": 3
+      "f": 3,
+      "a": 7
     },
-    "Copy",
+    "Undo",
     {
-      "x": 6
-    },
-    "Copy"
-  ],
-  [
-    {
-      "y": -0.87,
-      "x": 1
+      "y": -0.37
     },
     "Cut",
     {
-      "x": 1
+      "y": -0.13
+    },
+    "Copy",
+    {
+      "y": 0.13
     },
     "Paste",
     {
-      "x": 4
-    },
-    "Paste",
-    {
-      "x": 1
-    },
-    "Cut"
-  ],
-  [
-    {
-      "y": -0.8799999999999999,
-      "x": 4
+      "y": 0.13
     },
     "Redo",
     {
       "x": 2
     },
-    "Redo"
-  ],
-  [
+    "Redo",
     {
-      "y": -0.75
+      "y": -0.13
     },
-    "Undo",
+    "Paste",
     {
-      "x": 10
+      "y": -0.13
+    },
+    "Copy",
+    {
+      "y": 0.13
+    },
+    "Cut",
+    {
+      "y": 0.37
     },
     "Undo"
   ],
   [
+    "Super",
     {
-      "y": -0.5,
-      "x": 2
-    },
-    "Ctrl",
-    {
-      "x": 6
-    },
-    "Ctrl"
-  ],
-  [
-    {
-      "y": -0.8700000000000001,
-      "x": 1
+      "y": -0.37
     },
     "Alt",
     {
-      "x": 1,
+      "y": -0.13
+    },
+    "Ctrl",
+    {
+      "y": 0.13,
       "n": true
     },
     "Shift",
     {
-      "x": 4,
-      "n": true
-    },
-    "Shift",
-    {
-      "x": 1
-    },
-    "Alt"
-  ],
-  [
-    {
-      "y": -0.8799999999999999,
-      "x": 4
+      "y": 0.13
     },
     "",
     {
       "x": 2
     },
-    ""
-  ],
-  [
+    "",
     {
-      "y": -0.75
+      "y": -0.13,
+      "n": true
     },
-    "Super",
+    "Shift",
     {
-      "x": 10
+      "y": -0.13
+    },
+    "Ctrl",
+    {
+      "y": 0.13
+    },
+    "Alt",
+    {
+      "y": 0.37
     },
     "Super"
   ],
   [
+    "Undo",
     {
-      "y": -0.5,
-      "x": 2
-    },
-    "Copy",
-    {
-      "x": 6
-    },
-    "Copy"
-  ],
-  [
-    {
-      "y": -0.8700000000000001,
-      "x": 1
+      "y": -0.37
     },
     "Cut",
     {
-      "x": 1
+      "y": -0.13
+    },
+    "Copy",
+    {
+      "y": 0.13
     },
     "Paste",
     {
-      "x": 4
-    },
-    "Paste",
-    {
-      "x": 1
-    },
-    "Cut"
-  ],
-  [
-    {
-      "y": -0.8799999999999999,
-      "x": 4
+      "y": 0.13
     },
     "Redo",
     {
       "x": 2
     },
-    "Redo"
-  ],
-  [
+    "Redo",
     {
-      "y": -0.75
+      "y": -0.13
     },
-    "Undo",
+    "Paste",
     {
-      "x": 10
+      "y": -0.13
+    },
+    "Copy",
+    {
+      "y": 0.13
+    },
+    "Cut",
+    {
+      "y": 0.37
     },
     "Undo"
   ],
   [
     {
-      "y": -0.33999999999999986,
-      "x": 2.5
-    },
-    "Middle",
-    {
-      "x": 5
+      "y": -0.34,
+      "x": 2.5,
+      "a": 7
     },
     "Middle"
-  ],
-  [
-    {
-      "y": -0.16000000000000014,
-      "c": "#888888",
-      "a": 4,
-      "f": 2,
-      "fa": [
-        3
-      ],
-      "w": 12,
-      "d": true
-    },
-    "Miryoku\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
-    {
-      "x": -2,
-      "c": "#cccccc",
-      "a": 7,
-      "f": 3,
-      "d": true
-    },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
-    {
-      "d": true
-    },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -243,5 +180,43 @@
       "n": true
     },
     "Left"
+  ],
+  [
+    {
+      "r": 0,
+      "rx": 0,
+      "ry": 0,
+      "x": 8.5,
+      "y": 3.66
+    },
+    "Middle"
+  ],
+  [
+    {
+      "y": -0.16000000000000014,
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 12,
+      "d": true
+    },
+    "Miryoku\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": -2,
+      "a": 7,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ]
 ]
