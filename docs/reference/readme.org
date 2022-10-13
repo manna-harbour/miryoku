@@ -120,6 +120,9 @@ The top row index, middle, and ring column keys are used to switch between and r
 
 The bottom row index and middle column keys are used for layer lock. Index is for the current layer. Middle is for the opposite layer (normally activated with the corresponding primary, secondary, or tertiary thumb key on the opposite hand) and can be used for single handed lock and layer use.
 
+To prevent accidental activation, all additional features require a double tap to activate.
+
+
 *** Alternative Layouts
 
 The defaults are recommended, but alternative layouts are provided to accommodate existing muscle memory and platform differences.
