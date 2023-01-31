@@ -17,6 +17,7 @@
 - [[https://github.com/manna-harbour/miryoku_qmk/blob/miryoku/users/manna-harbour_miryoku/][Miryoku QMK]]
 - [[https://github.com/manna-harbour/miryoku_zmk][Miryoku ZMK]]
 - [[https://github.com/manna-harbour/miryoku_kmonad][Miryoku KMonad]]
+- [[https://github.com/manna-harbour/miryoku_kmk][Miryoku KMK]]
 - [[https://github.com/manna-harbour/miryoku_babel][Miryoku Babel]]
 - [[data/oryx][Miryoku Oryx]]
 
