@@ -135,7 +135,7 @@
       "y": -0.8700000000000001,
       "x": 1
     },
-    "",
+    "AltGr",
     {
       "x": 1
     },
@@ -203,11 +203,11 @@
       "a": 7,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
