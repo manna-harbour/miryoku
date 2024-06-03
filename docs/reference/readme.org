@@ -195,7 +195,7 @@ The same alpha arrangements are available as for Base. Use ~MIRYOKU_TAP~ e.g. ~M
 
 ~MIRYOKU_NAV=VI~
 
-Columns are moved left one position to match ~hjkl~ positions, and the inner index column is moved to the pinkie column.  All same hand sub layers are modified in the same way.
+Columns are moved left one position to match ~hjkl~ positions, and the inner index column is moved to the pinkie column.  All same hand sub layers are modified in the same way.  The clipboard row is unchanged.
 
 Not available with ~MIRYOKU_LAYERS=FLIP~.
 
