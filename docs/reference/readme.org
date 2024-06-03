@@ -44,7 +44,7 @@
 
 [[../../data/layers/miryoku-kle-base.png]]
 
-The base layer alphas are Colemak Mod-DH.  ~Dot~, ~comma~, and ~slash~, are included with the alphas, plus ~apostrophe~ replacing ~semicolon~.  The primary, secondary, and tertiary thumb keys are ~backspace~, ~enter~, and ~delete~ on the right, and ~space~, ~tab~, and ~escape~ on the left, respectively.
+The base layer alphas are Colemak Mod-DH.  ~Comma~, ~Dot~, and ~Slash~, are included with the alphas, plus ~Apostrophe~ replacing ~Semicolon~.  Combine with ~Shift~ for ~Less Than~, ~Greater Than~, ~Question Mark~, and ~Quote~, as usual.  The primary, secondary, and tertiary thumb keys are ~Backspace~, ~Enter~, and ~Delete~ on the right, and ~Space~, ~Tab~, and ~Escape~ on the left, respectively.
 
 Alternative alpha arrangements are also available.
 
@@ -53,7 +53,7 @@ Alternative alpha arrangements are also available.
 
 [[../../data/layers/miryoku-kle-nav.png]]
 
-Primary right-hand layer (left home thumb) is navigation and editing.  Cursor keys are on the home position, line and page movement below, clipboard above, ~caps lock~ and ~insert~ on the inner column.  Thumb keys are duplicated from the base layer to avoid having to layer change mid edit and to enable auto-repeat.
+Primary right-hand layer (left home thumb) is navigation and editing.  Cursor keys are on the home position, line and page movement below, clipboard above, ~Caps Lock~ and ~Insert~ on the inner column.  Thumb keys are duplicated from the base layer to avoid having to layer change mid edit and to enable auto-repeat.
 
 Alternative clipboard key mappings and navigation key arrangements are available.
 
@@ -69,14 +69,14 @@ Secondary right-hand layer is mouse emulation.  Mouse movement mirrors cursor na
 
 [[../../data/layers/miryoku-kle-button.png]]
 
-Provides mouse buttons, mods, and clipboard keys for use with integrated or external pointing devices, used with either hand.  The layer is available for automatic activation depending on hardware and configuration.  It can also be activated manually by holding a bottom row pinkie key (however ~super~ and ~undo~ will be unavailable).
+Provides mouse buttons, mods, and clipboard keys for use with integrated or external pointing devices, used with either hand.  The layer is available for automatic activation depending on hardware and configuration.  It can also be activated manually by holding a bottom row pinkie key (however ~Super~ and ~Undo~ will be unavailable).
 
 
 **** Media
 
 [[../../data/layers/miryoku-kle-media.png]]
 
-Tertiary right-hand layer is media control, with ~volume up~ / ~volume down~ and ~next~ / ~prev~ mirroring the navigation keys. ~Pause~, ~stop~ and ~mute~ are on the primary, secondary, and tertiary thumbs, respectively.
+Tertiary right-hand layer is media control, with ~Volume Up~ / ~Volume Down~ and ~Next~ / ~Prev~ mirroring the navigation keys. ~Pause~, ~Stop~ and ~Mute~ are on the primary, secondary, and tertiary thumbs, respectively.
 
 Keyboard hardware controls are also present, and depend on hardware and firmware support.
 
@@ -98,7 +98,7 @@ Primary left-hand layer (right home thumb) is numerals and symbols.  Numerals ar
 
 [[../../data/layers/miryoku-kle-sym.png]]
 
-Secondary left-hand layer has shifted symbols in the same locations to reduce chording when using mods with shifted symbols.  ~Open parenthesis~ is duplicated next to ~close parenthesis~.
+Secondary left-hand layer has shifted symbols in the same locations to reduce chording when using mods with shifted symbols.  ~Open Parenthesis~ is duplicated next to ~Close Parenthesis~.
 
 
 **** Fun
@@ -131,7 +131,7 @@ The defaults are recommended, but alternative layouts are provided to accommodat
 **** Alphas
 
 
-Standard alpha arrangements, plus ~dot~, ~comma~, ~slash~, and ~apostrophe~.
+Standard alpha arrangements, plus ~Comma~ / ~Less Than~, ~Dot~ / ~Greater Than~, ~Slash~ / ~Question Mark~, and ~Apostrophe~ / ~Quote~.
 
 
 ***** Base
@@ -204,7 +204,7 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 
 ~MIRYOKU_NAV=INVERTEDT~
 
-Cursor keys are in an inverted-T arrangement with ~down~ on the middle finger home position, ~home~ / ~end~ to the left / right of ~up~, and ~page up~ / ~page down~ on the pinkie column.  Clipboard keys are on the bottom row.  ~Insert~ moves to the top row.  ~Caps lock~ is unchanged.  All same hand sub layers are modified in the same way.
+Cursor keys are in an inverted-T arrangement with ~Down~ on the middle finger home position, ~Home~ / ~End~ to the left / right of ~Up~, and ~Page Up~ / ~Page Down~ on the pinkie column.  Clipboard keys are on the bottom row.  ~Insert~ moves to the top row.  ~Caps Lock~ is unchanged.  All same hand sub layers are modified in the same way.
 
 
 **** Clipboard
@@ -212,7 +212,7 @@ Cursor keys are in an inverted-T arrangement with ~down~ on the middle finger ho
 
 ***** Default
 
-The main clipboard keys (~cut~, ~copy~, and ~paste~) use the CUA bindings and should work in general unix and windows applications, emacs, and terminal emulators.  The additional keys (~undo~, ~redo~) use Fun Cluster keycodes and usually require rebinding in the application.
+The main clipboard keys (~Cut~, ~Copy~, and ~Paste~) use the CUA bindings and should work in general unix and windows applications, emacs, and terminal emulators.  The additional keys (~Undo~, ~Redo~) use Fun Cluster keycodes and usually require rebinding in the application.
 
 
 ***** Fun Cluster
