@@ -171,6 +171,7 @@ Standard alpha arrangements, plus ~Comma~ / ~Less Than~, ~Dot~ / ~Greater Than~,
 
 ~MIRYOKU_ALPHAS=QWERTY~
 
+[[../../data/layers/miryoku-kle-reference-qwerty.png]]
 
 ****** QWERTZ
 
