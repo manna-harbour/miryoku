@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Miryoku Lite 60% ANSI QWERTY",
+    "author": "Manna Harbour"
+  },
+  [
+    {
+      "f": 4,
+      "w": 15,
+      "h": 0.5,
+      "d": true
+    },
+    "<b>Layer Reference (Lite, 60% ANSI QWERTY)</b>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "f": 3
+    },
+    "~\n`",
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "w": 2
+    },
+    "⌫"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "↹",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    {
+      "t": "\n\n\n#0000FF\n#888888",
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Y\n\n\nRedo",
+    "U\n\n\nPaste",
+    "I\n\n\nCopy",
+    "O\n\n\nCut",
+    "P\n\n\nUndo",
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    "A\n\n\n\nSuper",
+    "S\n\n\n\nAlt",
+    "D\n\n\n\nCtrl",
+    "F\n\n\n\nShift",
+    "G",
+    "H\n\n\nCaps Lock",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "J\n\n\n◀\nShift",
+    "K\n\n\n▼\nCtrl",
+    "L\n\n\n▲\nAlt",
+    "\"\n'\n\n▶\nSuper",
+    ":\n;",
+    {
+      "w": 2.25
+    },
+    "↵"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    "Z",
+    "X\n\n\n\nAltGr",
+    "C",
+    "V",
+    "B",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "N\n\n\nInsert",
+    "M\n\n\nHome",
+    "<\n,\n\nPage Down",
+    ">\n.\n\nPage Up\nAltGr",
+    "?\n/\n\nEnd",
+    {
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "t": "\n\n\n\n#0000FF",
+      "w": 6.25
+    },
+    "\n\n\n\nNav",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Menu",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ],
+  [
+    {
+      "a": 4,
+      "f": 2,
+      "fa": [
+        3
+      ],
+      "w": 15,
+      "d": true
+    },
+    "Miryoku\n<tt>github.com/manna-harbour/miryoku</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    {
+      "x": -3,
+      "a": 7,
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>",
+    {
+      "d": true
+    },
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/kmonad-32.png'>"
+  ]
+]
